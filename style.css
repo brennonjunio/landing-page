@@ -1,0 +1,158 @@
+body {
+  font-family: "Poppins" !important;
+}
+
+.aaa .navbar-nav .nav-link.active {
+  margin-right: 20px;
+  color: #242f51 !important;
+  font-weight: 600;
+}
+
+.aaa .navbar-nav .nav-link.active:hover {
+  color: #2500f9 !important;
+}
+
+.botao-azul {
+  background-color: #2500f9;
+  color: #fff;
+  padding: 10px 35px;
+  border-radius: 30px;
+  border: 1px solid #2500f9;
+  font-weight: 600;
+}
+
+.botao-azul:hover {
+  background-color: #fff;
+  color: #2500f9;
+  border: 1px solid #2500f9;
+}
+
+#esquerdo {
+  padding-top: 200px;
+}
+
+#esquerdo img {
+  padding-bottom: 30px;
+}
+
+#esquerdo p {
+  padding-bottom: 20px;
+}
+#right h2 {
+  padding-bottom: 15px;
+  font-weight: bold !important;
+  color: #242f51 !important;
+  font-size: 40px;
+}
+#right p {
+  padding-bottom: 20px;
+}
+
+h1 {
+  padding-bottom: 15px;
+  font-size: 60px !important;
+  font-weight: bold !important;
+  color: #242f51 !important;
+}
+
+#home {
+  background-image: url("/img/Vector Smart Object2.png"),
+    url("/img/Layer 5.png");
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: contain;
+}
+
+#features h2 {
+  color: #242f51;
+  font-weight: bold !important;
+  width: 400px;
+}
+#features2 h2 {
+  color: #242f51;
+  font-weight: bold !important;
+}
+
+#features .justify-content-center p {
+  width: 600px;
+  margin-bottom: 100px;
+}
+#features2 .justify-content-center p {
+  width: 600px;
+  margin-bottom: 100px;
+}
+
+#features h3 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #242f51;
+}
+
+#features .col-md-4 {
+  padding: 0px 50px;
+  margin-bottom: 50px;
+}
+
+#questions h3 {
+  margin-bottom: 35px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #242f51;
+  text-align: start;
+}
+#questions p {
+  margin-bottom: 1%;
+  text-align: justify;
+}
+#questions h4 {
+  text-align: end;
+}
+#download-left {
+  padding-top: 200px;
+}
+
+#download-left img {
+  padding-bottom: 30px;
+}
+
+#download-left p {
+  padding-bottom: 20px;
+}
+footer {
+  background-color: rgb(9, 20, 46);
+  padding-bottom: 15%;
+  text-align: center !important;
+  padding-top: 10%;
+}
+
+.bbb .navbar-nav .nav-link.active {
+  color: white !important;
+  margin-right: 20px;
+}
+
+footer {
+  background-color: #09142e;
+  height: 400px;
+  padding-top: 80px;
+}
+
+footer img {
+  margin-bottom: 40px;
+}
+
+footer .nav-link {
+  color: #fff !important;
+  font-size: 12px;
+}
+
+.bbb {
+  margin: auto;
+  width: 400px;
+  padding-bottom: 8%;
+}
+
+footer p {
+  font-size: 12px;
+}
